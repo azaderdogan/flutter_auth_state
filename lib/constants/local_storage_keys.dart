@@ -1,0 +1,4 @@
+enum LocalStorageKeys {
+  isLogged,
+  isFirstApp,
+}
